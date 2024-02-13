@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1707761321 source:/home/leul/Desktop/CG/racing/main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string>
+
